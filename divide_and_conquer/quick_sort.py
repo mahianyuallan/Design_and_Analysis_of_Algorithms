@@ -1,8 +1,7 @@
 """
 
-Author: Mike Farad
-RegNo: P15/102164/2017
-Date: 15th November 2019, Friday
+Author: Allan Mwenja
+Date: 18th October 2023, Wednesday
 
 An Implementation of quick sort
 -----------------------------------
